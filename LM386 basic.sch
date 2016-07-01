@@ -16812,7 +16812,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="175.26" y="27.94" size="2.54" layer="91">LM386 Audio Amp</text>
+<text x="175.26" y="30.48" size="2.54" layer="94">LM386 Audio Amp</text>
 <text x="86.36" y="119.38" size="1.778" layer="91">PWR</text>
 <text x="86.36" y="147.32" size="1.778" layer="91">AUDIN</text>
 <text x="182.88" y="129.54" size="1.778" layer="91">SPKR</text>
@@ -16822,6 +16822,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 -</text>
 <text x="193.04" y="121.92" size="1.778" layer="91">+
 -</text>
+<text x="175.26" y="25.4" size="2.54" layer="94">Single Channel</text>
+<text x="266.7" y="7.62" size="2.54" layer="94">1</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="144.78" y="124.46"/>
